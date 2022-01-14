@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi lafydev, I love your work with the wingpanel! 
+Greetings from germany ;)
 <!--
 **Lafydev/lafydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
